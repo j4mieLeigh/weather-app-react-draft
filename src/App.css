@@ -4,12 +4,12 @@ body {
   padding: 30px;
 }
 
-.Header header {
+header {
   border-bottom: 1px solid #f9f7fe;
   padding: 0 0 20px 0;
 }
 
-.Header form {
+form {
   display: flex;
   justify-content: space-around;
 }
